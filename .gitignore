@@ -19,6 +19,7 @@ _autosave-*
 .history-trim
 fp-info-cache
 *.lck
+production
 
 # Netlist files (exported from Eeschema)
 *.net
